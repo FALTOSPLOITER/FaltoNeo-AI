@@ -2,3 +2,8 @@ https://pypi.org/project/livekit-plugins-silero/0.7.3/
 https://pypi.org/project/livekit-plugins-openai/0.10.7/
 https://pypi.org/project/livekit-plugins-deepgram/0.6.11/
 https://pypi.org/project/livekit-agents/0.11.3/
+
+pip install --upgrade livekit-agents
+pip install --upgrade livekit-plugins-deepgram
+pip install --upgrade livekit-plugins-openai
+pip install --upgrade livekit-plugins-silero
