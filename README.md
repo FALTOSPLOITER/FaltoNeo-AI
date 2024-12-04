@@ -5,6 +5,7 @@ First, create a virtual environment, update pip, and install the required packag
 ```
 $ python3 -m venv .venv
 $ source .venv/bin/activate
+$ .venv\Scripts\activate (wu)
 $ pip install -U pip
 $ pip install -r requirements.txt
 ```
